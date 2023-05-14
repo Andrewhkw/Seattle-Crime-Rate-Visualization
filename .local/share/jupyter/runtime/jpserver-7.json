@@ -1,0 +1,13 @@
+{
+  "base_url": "/2023-spring-hcde-410-a/user/drewhk/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 7,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://jupyter-drewhk:8888/2023-spring-hcde-410-a/user/drewhk/",
+  "version": "1.11.2"
+}
