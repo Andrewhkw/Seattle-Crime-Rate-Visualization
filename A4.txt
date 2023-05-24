@@ -1,6 +1,7 @@
 Motivation and Problem Statement: 
 I am planning on doing this analysis because I am curious to see what our criminal trends are in the City of Seattle and potentially also look at where crime tends to aggregate. I think this could be useful from a scientific standpoint as we can better understand the demographics of criminal activity across our city and find the places that need the most help. Usually, most criminal activity aggregates in lower socioeconomic areas so understanding this, we could potentially find better ways to help our own community. From this dataset, I am hoping to learn more about the demographic trends within criminal activity and see whether or not crime has increased or decreased over the past several years and potentially look at whether or not some areas have increased criminal activity or decreased criminal activity. 
 
+Andrew
 
 Dataset link: https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5 
 
